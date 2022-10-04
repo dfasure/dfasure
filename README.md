@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dfasure
 - 👀 I’m interested in learning the skills tobecome a data scientist
-- 🌱 I’m currently learning R asa masters student
+- 🌱 I’m currently learning R as a masters student
 - 💞️ I’m looking to collaborate on project that would help me learn
 - 📫 How to reach me via info on my profile
 
