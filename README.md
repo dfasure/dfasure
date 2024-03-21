@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dfasure
+- 👋 Hi, I’m Dare
 - 👀 I’m interested in learning the skills tobecome a data scientist
 - 🌱 I’m currently learning R as a masters student
 - 💞️ I’m looking to collaborate on project that would help me learn
